@@ -9,6 +9,7 @@ public class Main {
         myHash.push(123,456);
         myHash.push(3,103);
         myHash.get(8);
+        myHash.get(5);
         myHash.isEmpty();
     }
 }
